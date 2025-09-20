@@ -1,1 +1,1 @@
-A very simple AGI script to respond to calls made to a VOIP phone number and use whisper voice recognition and get a response from chatGPT using asterisk 
+A very simple AGI script to respond to calls made to a VOIP phone number and use whisper voice recognition for Speech to text and get a response from chatGPT then play using piper back to the user using asterisk 
